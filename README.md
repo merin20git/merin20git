@@ -9,9 +9,6 @@
 - 🌱 I’m currently learning AI
 - 📫 How to reach me: https://linkedin.com/in/merin-thomas-c
 
- 🚀 Featured Project
- Superemart (Android App)
-Compares product prices across nearby supermarkets, shows discounts, and provides delivery services.
 
 
 
